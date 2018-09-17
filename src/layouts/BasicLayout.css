@@ -1,0 +1,21 @@
+.container {
+  min-height: 100vh;
+}
+.container .sider {
+  color: white;
+}
+.container .sider .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+.container .header,
+.container .footer {
+  padding: 0 20px;
+  height: 64px;
+  line-height: 64px;
+  background-color: #7dbcea;
+}
+.container .content {
+  padding: 10px;
+}
